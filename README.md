@@ -6,7 +6,7 @@ Jonathan Ho 编辑于 2021.12.21 [10个历史版本](https://github.com/jonafanh
 
 ## Minecraft Transit Railway 3.0 / 我的世界铁路 3.0
 
-Minecraft Transit Railway is a [Minecraft mod](https://minecraft.fandom.com/wiki/Mods) based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds trains into the game along with other miscellaneous blocks and items. With this mod, it is possible to build a fully functional railway system in your world!
+_Minecraft Transit Railway_ is a [Minecraft mod](https://minecraft.fandom.com/wiki/Mods) based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds trains into the game along with other miscellaneous blocks and items. With this mod, it is possible to build a fully functional railway system in your world!
 
 《我的世界铁路》是一个在中国香港的港铁、伦敦地铁和纽约地铁基础上制作的 [Minecraft 模组](https://minecraft.fandom.com/wiki/Mods)。它把列车等一系列方块、物品加入游戏。在这个模组的帮助下，你将能够体会到高度还原并且功能强大的路系统的美妙之处！
 
